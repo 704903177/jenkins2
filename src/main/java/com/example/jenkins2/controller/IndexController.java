@@ -16,4 +16,8 @@ public class IndexController {
         return "git pull1";
     }
 
+    public String test2(){
+        return "hello test2";
+    }
+
 }
