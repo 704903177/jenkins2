@@ -20,4 +20,8 @@ public class IndexController {
         return "hello test2";
     }
 
+    public String pull(){
+        return "pull";
+    }
+
 }
