@@ -13,7 +13,7 @@ public class IndexController {
 
     @GetMapping("git")
     public String git(){
-        return "git pull";
+        return "git pull1";
     }
 
 }
